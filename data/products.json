@@ -1,0 +1,363 @@
+[
+  {
+    "id": "samsung-galaxy-s24",
+    "name": "گوشی سامسونگ Galaxy S24",
+    "category": "mobile",
+    "brand": "Samsung",
+    "price": 46000000,
+    "discountPrice": 43000000,
+    "stock": 8,
+    "images": [
+      "Samsung Galaxy S24/main pic.jfif",
+      "Samsung Galaxy S24/pic (1).jfif",
+      "Samsung Galaxy S24/pic (3).jfif",
+      "Samsung Galaxy S24/pic (4).jfif",
+      "Samsung Galaxy S24/pic (5).jfif",
+      "Samsung Galaxy S24/pic (6).jfif"
+    ],
+    "rating": 4.6,
+    "reviewCount": 132,
+    "createdAt": "2026-10-02",
+    "specs": {
+      "نمایشگر": "6.2 اینچ Dynamic AMOLED 2X، ۱۲۰ هرتز",
+      "پردازنده": "Exynos 2400",
+      "رم": "8GB",
+      "دوربین اصلی": "50 مگاپیکسل",
+      "باتری": "4000 mAh"
+    },
+    "variants": [
+      {
+        "storage": "128GB",
+        "priceDiff": 0
+      },
+      {
+        "storage": "256GB",
+        "priceDiff": 5000000
+      }
+    ]
+  },
+  {
+    "id": "apple-iphone-15",
+    "name": "گوشی اپل iPhone 15",
+    "category": "mobile",
+    "brand": "Apple",
+    "price": 58000000,
+    "stock": 5,
+    "images": [
+      "iPhone 15/main pic.webp",
+      "iPhone 15/pic (1).webp",
+      "iPhone 15/pic (2).webp",
+      "iPhone 15/pic (3).webp"
+    ],
+    "rating": 4.8,
+    "reviewCount": 210,
+    "createdAt": "2026-09-18",
+    "specs": {
+      "نمایشگر": "6.1 اینچ Super Retina XDR",
+      "پردازنده": "Apple A16 Bionic",
+      "دوربین اصلی": "48 مگاپیکسل",
+      "درگاه": "USB-C",
+      "سیستم‌عامل": "iOS"
+    },
+    "variants": [
+      {
+        "storage": "128GB",
+        "priceDiff": 0
+      },
+      {
+        "storage": "256GB",
+        "priceDiff": 7000000
+      },
+      {
+        "storage": "512GB",
+        "priceDiff": 17000000
+      }
+    ]
+  },
+  {
+    "id": "google-pixel-8",
+    "name": "گوشی گوگل Pixel 8",
+    "category": "mobile",
+    "brand": "Google",
+    "price": 38000000,
+    "discountPrice": 35500000,
+    "stock": 3,
+    "images": [
+      "Google Pixel 8/main pic.webp",
+      "Google Pixel 8/pic (1).jfif",
+      "Google Pixel 8/pic (2).webp",
+      "Google Pixel 8/pic (3).webp",
+      "Google Pixel 8/pic (4).jfif",
+      "Google Pixel 8/pic (5).jfif"
+    ],
+    "rating": 4.5,
+    "reviewCount": 64,
+    "createdAt": "2026-08-25",
+    "specs": {
+      "نمایشگر": "6.2 اینچ OLED، ۱۲۰ هرتز",
+      "پردازنده": "Google Tensor G3",
+      "رم": "8GB",
+      "دوربین اصلی": "50 مگاپیکسل",
+      "باتری": "4575 mAh"
+    },
+    "variants": [
+      {
+        "storage": "128GB",
+        "priceDiff": 0
+      },
+      {
+        "storage": "256GB",
+        "priceDiff": 4000000
+      }
+    ]
+  },
+  {
+    "id": "oneplus-12",
+    "name": "گوشی وان‌پلاس OnePlus 12",
+    "category": "mobile",
+    "brand": "OnePlus",
+    "price": 52000000,
+    "discountPrice": 49000000,
+    "stock": 0,
+    "images": [
+      "OnePlus 12/main pic.webp",
+      "OnePlus 12/pic (1).jpg",
+      "OnePlus 12/pic (2).webp",
+      "OnePlus 12/pic (3).webp",
+      "OnePlus 12/pic (4).webp"
+    ],
+    "rating": 4.7,
+    "reviewCount": 48,
+    "createdAt": "2026-07-30",
+    "specs": {
+      "نمایشگر": "6.82 اینچ LTPO AMOLED، ۱۲۰ هرتز",
+      "پردازنده": "Snapdragon 8 Gen 3",
+      "باتری": "5400 mAh",
+      "شارژ": "100 وات سیمی"
+    },
+    "variants": [
+      {
+        "ram": "12GB",
+        "storage": "256GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 8000000
+      }
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-note-13-pro",
+    "name": "گوشی شیائومی Redmi Note 13 Pro",
+    "category": "mobile",
+    "brand": "Xiaomi",
+    "price": 17500000,
+    "discountPrice": 16200000,
+    "stock": 14,
+    "images": [
+      "Xiaomi Redmi Note 13 Pro/main pic.jfif",
+      "Xiaomi Redmi Note 13 Pro/pic (1).webp",
+      "Xiaomi Redmi Note 13 Pro/pic (2).webp",
+      "Xiaomi Redmi Note 13 Pro/pic (3).webp"
+    ],
+    "rating": 4.3,
+    "reviewCount": 305,
+    "createdAt": "2026-06-12",
+    "specs": {
+      "نمایشگر": "6.67 اینچ AMOLED، ۱۲۰ هرتز",
+      "پردازنده": "Snapdragon 7s Gen 2",
+      "دوربین اصلی": "200 مگاپیکسل",
+      "باتری": "5100 mAh",
+      "شارژ": "67 وات"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "256GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "12GB",
+        "storage": "512GB",
+        "priceDiff": 3000000
+      }
+    ]
+  },
+  {
+    "id": "asus-vivobook-15",
+    "name": "لپ‌تاپ ایسوس Vivobook 15",
+    "category": "laptop",
+    "brand": "Asus",
+    "price": 32500000,
+    "discountPrice": 29900000,
+    "stock": 12,
+    "images": [
+      "Vivobook 15/main pic.webp",
+      "Vivobook 15/pic (1).webp",
+      "Vivobook 15/pic (2).webp"
+    ],
+    "rating": 4.3,
+    "reviewCount": 24,
+    "createdAt": "2026-10-20",
+    "specs": {
+      "پردازنده": "Intel Core i5-1235U",
+      "نمایشگر": "15.6 اینچ Full HD",
+      "کارت گرافیک": "Intel Iris Xe (مجتمع)",
+      "سیستم‌عامل": "بدون سیستم‌عامل"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "256GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 4000000
+      }
+    ]
+  },
+  {
+    "id": "hp-pavilion-15",
+    "name": "لپ‌تاپ اچ‌پی Pavilion 15",
+    "category": "laptop",
+    "brand": "HP",
+    "price": 38000000,
+    "stock": 6,
+    "images": [
+      "HP Pavilion 15/main pic.jfif",
+      "HP Pavilion 15/pic (1).webp",
+      "HP Pavilion 15/pic (2).jpg"
+    ],
+    "rating": 4.4,
+    "reviewCount": 41,
+    "createdAt": "2026-09-05",
+    "specs": {
+      "پردازنده": "Intel Core i5-1335U",
+      "نمایشگر": "15.6 اینچ Full HD IPS",
+      "کارت گرافیک": "Intel Iris Xe (مجتمع)",
+      "سیستم‌عامل": "Windows 11"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "512GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 3500000
+      }
+    ]
+  },
+  {
+    "id": "acer-aspire-5",
+    "name": "لپ‌تاپ ایسر Aspire 5",
+    "category": "laptop",
+    "brand": "Acer",
+    "price": 29000000,
+    "discountPrice": 27400000,
+    "stock": 9,
+    "images": [
+      "Acer Aspire 5/main pic.jpg",
+      "Acer Aspire 5/pic (1).webp",
+      "Acer Aspire 5/pic (2).jfif"
+    ],
+    "rating": 4.2,
+    "reviewCount": 37,
+    "createdAt": "2026-08-08",
+    "specs": {
+      "پردازنده": "AMD Ryzen 5 7530U",
+      "نمایشگر": "15.6 اینچ Full HD IPS",
+      "کارت گرافیک": "AMD Radeon (مجتمع)",
+      "سیستم‌عامل": "Windows 11"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "512GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 3000000
+      }
+    ]
+  },
+  {
+    "id": "lenovo-ideapad-slim-3",
+    "name": "لپ‌تاپ لنوو IdeaPad Slim 3",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "price": 31000000,
+    "discountPrice": 28900000,
+    "stock": 7,
+    "images": [
+      "IdeaPad Slim 3/main pic.webp",
+      "IdeaPad Slim 3/pic (1).jpg",
+      "IdeaPad Slim 3/pic (2).jfif"
+    ],
+    "rating": 4.1,
+    "reviewCount": 29,
+    "createdAt": "2026-07-14",
+    "specs": {
+      "پردازنده": "Intel Core i5-13420H",
+      "نمایشگر": "15.6 اینچ Full HD",
+      "کارت گرافیک": "Intel UHD (مجتمع)",
+      "سیستم‌عامل": "بدون سیستم‌عامل"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "512GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 3000000
+      }
+    ]
+  },
+  {
+    "id": "apple-macbook-air-m2",
+    "name": "لپ‌تاپ اپل MacBook Air M2",
+    "category": "laptop",
+    "brand": "Apple",
+    "price": 72000000,
+    "discountPrice": 68500000,
+    "stock": 4,
+    "images": [
+      "MacBook Air M2/main pic.webp",
+      "MacBook Air M2/pic (1).jpg",
+      "MacBook Air M2/pic (2).jpg"
+    ],
+    "rating": 4.9,
+    "reviewCount": 88,
+    "createdAt": "2026-10-28",
+    "specs": {
+      "پردازنده": "Apple M2",
+      "نمایشگر": "13.6 اینچ Liquid Retina",
+      "وزن": "1.24 کیلوگرم",
+      "سیستم‌عامل": "macOS"
+    },
+    "variants": [
+      {
+        "ram": "8GB",
+        "storage": "256GB",
+        "priceDiff": 0
+      },
+      {
+        "ram": "16GB",
+        "storage": "512GB",
+        "priceDiff": 22000000
+      }
+    ],
+    "featured": true
+  }
+]

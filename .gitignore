@@ -1,0 +1,22 @@
+# سیستم عامل
+.DS_Store
+Thumbs.db
+
+# ادیتورها
+.vscode/
+.idea/
+
+# فایربیس (در صورت استفاده از Firebase CLI/emulator)
+.firebase/
+firebase-debug.log
+
+# اگر بعداً از یک باندلر یا وابستگی npm استفاده کردی
+node_modules/
+dist/
+
+# لاگ‌ها و تنظیمات محلی
+*.log
+npm-debug.log*
+.env
+.env.*
+!.env.example
